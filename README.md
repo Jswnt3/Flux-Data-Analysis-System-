@@ -16,17 +16,17 @@
 Flux is a web-based data analysis platform designed to simplify the process of analyzing diverse datasets.  
 It enables users to upload raw data and instantly receive cleaned data, visual insights, and downloadable reports without writing any code.
 
----
+
 
 ## Problem Statement
 Data analysis often requires technical expertise and manual preprocessing, making it difficult for users to extract insights efficiently from raw datasets.
 
----
+
 
 ## Solution
 Flux provides a clean and intuitive web interface that automates data validation, preprocessing, visualization, and reporting, enabling faster and more accessible data-driven decision-making.
 
----
+
 
 ## System Architecture
 
@@ -61,7 +61,7 @@ Visualization and Reports
 └── Excel export
 ```
 
----
+
 
 ## Key Features
 - Supports CSV, Excel, and JSON file uploads  
@@ -73,7 +73,7 @@ Visualization and Reports
 - Robust error handling and logging  
 - Responsive, mobile-friendly interface  
 
----
+
 
 ## Technology Stack
 - **Backend:** Python, Flask  
@@ -83,12 +83,12 @@ Visualization and Reports
 - **Frontend:** HTML, CSS, Bootstrap  
 - **Version Control:** Git, GitHub  
 
----
+
 
 ## Why Flask?
 Flask was selected due to its lightweight architecture, flexibility, and seamless integration with Python-based data processing and visualization libraries, making it well-suited for data-driven web applications.
 
----
+
 
 ## Demo Preview
 
@@ -98,7 +98,7 @@ interactive visualizations, and provides downloadable PDF and Excel reports.
 
 This section will be updated with visual previews in future versions.
 
----
+
 
 ## Output and Insights
 Flux transforms raw datasets into:
@@ -108,7 +108,7 @@ Flux transforms raw datasets into:
 
 This enables users to gain actionable insights efficiently and confidently.
 
----
+
 
 ## Future Enhancements
 - User authentication and saved dashboards  
@@ -117,13 +117,13 @@ This enables users to gain actionable insights efficiently and confidently.
 - AI-driven insight recommendations  
 - Cloud deployment for scalability  
 
----
+
 
 ## Author
 **Jaswanth Mudapaka**  
 B.Tech – Computer Science & Engineering  
 
----
+
 
 If you find this project useful, please consider giving it a star.
 
