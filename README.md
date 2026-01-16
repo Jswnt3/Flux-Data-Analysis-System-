@@ -92,13 +92,11 @@ Flask was selected due to its lightweight architecture, flexibility, and seamles
 
 ## Demo Preview
 
-<p align="center">
-  <img src="demo.gif" alt="Flux Demo" width="85%" />
-</p>
+The application allows users to upload datasets in CSV, Excel, or JSON format.  
+After upload, the system automatically validates and preprocesses the data, generates
+interactive visualizations, and provides downloadable PDF and Excel reports.
 
-<p align="center">
-  <i>End-to-end workflow: data upload, preprocessing, visualization, and report generation</i>
-</p>
+This section will be updated with visual previews in future versions.
 
 ---
 
