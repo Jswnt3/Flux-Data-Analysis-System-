@@ -76,12 +76,43 @@ Visualization and Reports
 
 
 ## Technology Stack
-- **Backend:** Python, Flask  
-- **Data Processing:** Pandas, NumPy  
-- **Visualization:** Plotly  
-- **Reporting:** PDF and Excel generation  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Version Control:** Git, GitHub  
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask&logoColor=white" />
+</p>
+
+### Data Processing
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white" />
+</p>
+
+### Visualization
+<p>
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3f4f75?logo=plotly&logoColor=white" />
+</p>
+
+### Reporting
+<p>
+  <img src="https://img.shields.io/badge/PDF-Report%20Generation-red" />
+  <img src="https://img.shields.io/badge/Excel-Report%20Export-217346?logo=microsoft-excel&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-UI%20Framework-7952B3?logo=bootstrap&logoColor=white" />
+</p>
+
+### Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?logo=github&logoColor=white" />
+</p>
+
 
 
 
